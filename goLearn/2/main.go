@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	snow "github.com/Ricky-fight/go_learn/2/snow"
+	snow "github.com/Ricky-fight/goLearn/2/snow"
 )
 
 func main() {
